@@ -1,0 +1,51 @@
+ 17:05:48.264 [main] INFO  testCases.TC001AccountRegistrationTest - ***Starting Test case***
+ 17:05:48.712 [main] INFO  testCases.TC001AccountRegistrationTest - ***Clicked on MyAccount link***
+ 17:05:49.541 [main] INFO  testCases.TC001AccountRegistrationTest - ***clicked on Register link
+ 17:05:49.549 [main] INFO  testCases.TC001AccountRegistrationTest - ***Here Im providing customer Details
+ 17:05:52.921 [main] INFO  testCases.TC001AccountRegistrationTest - **Validating the confirmation message**
+ 17:05:52.963 [main] INFO  testCases.TC001AccountRegistrationTest - **Test Finished**
+ 17:06:07.271 [main] INFO  testCases.TC001AccountRegistrationTest - ***Starting Test case***
+ 17:06:07.453 [main] INFO  testCases.TC001AccountRegistrationTest - ***Clicked on MyAccount link***
+ 17:06:07.983 [main] INFO  testCases.TC001AccountRegistrationTest - ***clicked on Register link
+ 17:06:07.986 [main] INFO  testCases.TC001AccountRegistrationTest - ***Here Im providing customer Details
+ 17:06:09.993 [main] INFO  testCases.TC001AccountRegistrationTest - **Validating the confirmation message**
+ 17:06:10.040 [main] INFO  testCases.TC001AccountRegistrationTest - **Test Finished**
+ 17:06:15.249 [main] INFO  testCases.TC001AccountRegistrationTest - ***Starting Test case***
+ 17:06:15.533 [main] INFO  testCases.TC001AccountRegistrationTest - ***Clicked on MyAccount link***
+ 17:06:16.215 [main] INFO  testCases.TC001AccountRegistrationTest - ***clicked on Register link
+ 17:06:16.216 [main] INFO  testCases.TC001AccountRegistrationTest - ***Here Im providing customer Details
+ 17:06:18.316 [main] INFO  testCases.TC001AccountRegistrationTest - **Validating the confirmation message**
+ 17:06:18.379 [main] INFO  testCases.TC001AccountRegistrationTest - **Test Finished**
+ 17:08:27.936 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - ***Starting Test case***
+ 17:08:29.593 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - ***Clicked on MyAccount link***
+ 17:08:31.795 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - ***clicked on Register link
+ 17:08:31.853 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - ***Here Im providing customer Details
+ 17:08:33.372 [TestNG-tests-3] INFO  testCases.TC001AccountRegistrationTest - ***Starting Test case***
+ 17:08:35.625 [TestNG-tests-3] INFO  testCases.TC001AccountRegistrationTest - ***Clicked on MyAccount link***
+ 17:08:37.635 [TestNG-tests-3] INFO  testCases.TC001AccountRegistrationTest - ***clicked on Register link
+ 17:08:37.637 [TestNG-tests-3] INFO  testCases.TC001AccountRegistrationTest - ***Here Im providing customer Details
+ 17:08:39.541 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **Validating the confirmation message**
+ 17:08:40.714 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **Test Finished**
+ 17:08:43.960 [TestNG-tests-3] INFO  testCases.TC001AccountRegistrationTest - **Validating the confirmation message**
+ 17:08:44.128 [TestNG-tests-3] INFO  testCases.TC001AccountRegistrationTest - **Test Finished**
+ 17:08:56.094 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - ***Starting Test case***
+ 17:08:56.395 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - ***Clicked on MyAccount link***
+ 17:08:57.559 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - ***clicked on Register link
+ 17:08:57.560 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - ***Here Im providing customer Details
+ 17:09:00.164 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **Validating the confirmation message**
+ 17:09:00.233 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **Test Finished**
+ 17:40:14.618 [main] INFO  testCases.TC001AccountRegistrationTest - ***Starting Test case***
+ 17:40:15.292 [main] INFO  testCases.TC001AccountRegistrationTest - ***Clicked on MyAccount link***
+ 17:40:16.142 [main] INFO  testCases.TC001AccountRegistrationTest - ***clicked on Register link
+ 17:40:16.148 [main] INFO  testCases.TC001AccountRegistrationTest - ***Here Im providing customer Details
+ 17:40:19.194 [main] INFO  testCases.TC001AccountRegistrationTest - **Validating the confirmation message**
+ 17:40:19.238 [main] INFO  testCases.TC001AccountRegistrationTest - **Test Finished**
+ 19:39:20.799 [main] INFO  testCases.TC002_LoginTest - ***Stating TC002_LoginTest***
+ 19:41:32.931 [main] INFO  testCases.TC002_LoginTest - ***Stating TC002_LoginTest***
+ 19:43:21.213 [main] INFO  testCases.TC002_LoginTest - ***Stating TC002_LoginTest***
+ 19:49:34.695 [main] INFO  testCases.TC002_LoginTest - ***Stating TC002_LoginTest***
+ 19:49:37.965 [main] INFO  testCases.TC002_LoginTest - ***Finsih TC002_LoginTest***
+ 19:54:12.295 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Rojida\eclipse-workspace\OpencartV12\master.xml"
+ 19:54:13.216 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rojida\eclipse-workspace\OpencartV12\master.xml
+

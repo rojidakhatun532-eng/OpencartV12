@@ -1,0 +1,5 @@
+ 14:00:51.242 [main] INFO  testCases.TC001AccountRegistrationTest - ***Here Im providing customer Details
+ 14:00:54.826 [main] INFO  testCases.TC001AccountRegistrationTest - **Validating the confirmation message**
+ 14:00:54.916 [main] INFO  testCases.TC001AccountRegistrationTest - **Test Finished**
+ 14:00:58.231 [main] INFO  testCases.TC002_LoginTest - ***Stating TC002_LoginTest***
+ 14:01:00.395 [main] INFO  testCases.TC002_LoginTest - ***Finsih TC002_LoginTest***
